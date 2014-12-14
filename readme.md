@@ -1,6 +1,6 @@
-# Zombie Saga - A Saga Child Theme
+# Zombie Saga - A Saga child theme
 
-The Saga parent theme was created as a theme specifically for writers.
+Parent theme: [Saga](https://github.com/justintadlock/saga) - a theme created pecifically for writers.
 
 This child theme adds a dark background to the content and changes the main font to [Oxygen](http://www.google.com/fonts/specimen/Oxygen).
 
